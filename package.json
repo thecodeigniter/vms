@@ -1,0 +1,19 @@
+{
+  "name": "vms",
+  "version": "1.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0"
+  },
+  "dependencies": {
+    "node-php-server": "^0.1.2"
+  }
+}
